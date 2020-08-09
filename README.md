@@ -1,4 +1,4 @@
-# THE MIT huwei-weiwei LICENSE
+# THE MIT huawei-weiwei LICENSE
 
 
 ---
