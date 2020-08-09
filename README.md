@@ -1,5 +1,5 @@
-# THE MIT SUSHI-WARE LICENSE
-![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
+# THE MIT huwei-weiwei LICENSE
+
 
 ---
 
