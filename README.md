@@ -15,14 +15,12 @@ MIT LICENSEとSUSHI-WARE LICENSEを合体させ、作者(著作権者)の著作�
   以上2つの条件を満たしている場合、以下の権利が許諾されます。
   
   - 使用・コピー・改変・再配布などを、無償かつ制限なしで扱うことができる権利
-  - ソフトウェアの作者(著作権者)に、寿司🍣を奢ることができる権利
+  - (ง •ᴗ•)ว ⁾⁾ﾌｧｰｳｪｲでｳｪｲｳｪｲ と踊ることができる権利
 
-## バッジ
-`![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)`  
-![LICENSE: MIT SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)
+
 
 ## 注意事項
-- 寿司を奢るのは義務ではなく、あくまで「権利」です
+- (ง •ᴗ•)ว ⁾⁾ﾌｧｰｳｪｲでｳｪｲｳｪｲ は義務ではなく、あくまで「権利」です
 - このライセンスはOSIやFSFに承認されていないため、あくまで使用は「自己責任」でお願いします
 - このリポジトリも`MIT SUSHI-WARE LICENSE`によって提供されます
 
@@ -34,9 +32,9 @@ MIT LICENSEとSUSHI-WARE LICENSEを合体させ、作者(著作権者)の著作�
 など有りましたら、気軽にIssue・プルリクエストをよろしくお願いします！
 
 ## その他
-Twitter (@Watasuke102) とGithubアカウントのフォロー、リポジトリのスターよろしくお願いします。  
+フォーク元のTwitter (@Watasuke102) とGithubアカウントのフォロー、リポジトリのスターよろしくお願いします。  
 また、SUSHI-WARE LICENSEの原作者様、及びSUSHI-WARE LICENSEの元であるTHE BEER-WARE LICENSEの原作者様に感謝します。
 
 
 ---
-© 2020 わたすけ (@Watasuke102)
+© 2020 nexryai (@nexryai)
