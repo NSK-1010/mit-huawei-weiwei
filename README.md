@@ -31,7 +31,7 @@ MIT LICENSEとSUSHI-WARE LICENSEを合体させ、作者(著作権者)の著作�
 など有りましたら、気軽にIssue・プルリクエストをよろしくお願いします！
 
 ## その他
-フォーク元のTwitter (@nexrya・@Watasuke102) とGithubアカウントのフォロー、リポジトリのスターよろしくお願いします。  
+フォーク元のTwitter (@nexryai・@Watasuke102) とGithubアカウントのフォロー、リポジトリのスターよろしくお願いします。  
 また、SUSHI-WARE LICENSEの原作者様、及びSUSHI-WARE LICENSEの元であるTHE BEER-WARE LICENSEの原作者様に感謝します。
 
 
