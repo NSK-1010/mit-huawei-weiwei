@@ -1,4 +1,4 @@
-# THE MIT huawei-weiwei LICENSE
+# THE MIT GRASS-WARE LICENSE
 
 
 ---
